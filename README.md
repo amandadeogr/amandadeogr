@@ -1,9 +1,9 @@
 ### :octocat: Olá!
-<p>* Me chamo Amanda.</p>
-<p>* Tenho 22 anos.</p>
-<p>* Estou no 5° período de Análise e Desenvolvimento de Sistemas.</p>
-<p>* Sou casada.</p>
-<p>* E mãe de um lindo principezinho.</p>
+* Me chamo Amanda.
+* Tenho 22 anos.
+* Estou no 5° período de Análise e Desenvolvimento de Sistemas.
+* Sou casada.
+* E mãe de um lindo principezinho.
 
 <p>Gosto de desenvolver layouts para a web e mobile, e tenho conhecimentos e interesse na área de UX Design.</p>
 
