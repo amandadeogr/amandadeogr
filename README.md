@@ -1,9 +1,9 @@
 ### :octocat: Olá!
 * Me chamo Amanda.
-* Tenho 22 anos.
-* Estou no 5° período de Análise e Desenvolvimento de Sistemas.
-* Sou casada.
-* E mãe de um lindo principezinho.
+* Tenho 23 anos.
+* Sou formada em Análise e Desenvolvimento de Sistemas.
+* Participo do programa Desenvolve, do Grupo O boticário.
+* Sou casada e mãe de um lindo principezinho.
 
 <p>Gosto de desenvolver layouts para a web e mobile, e tenho conhecimentos e interesse na área de UX Design.</p>
 
