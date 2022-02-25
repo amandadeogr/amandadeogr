@@ -2,8 +2,8 @@
 * Me chamo Amanda.
 * Tenho 23 anos.
 * Sou formada em Análise e Desenvolvimento de Sistemas.
-* Participo do programa Desenvolve, do Grupo O boticário.
-* Sou casada e mãe de um lindo principezinho.
+* Participo do programa Desenvolve, do Grupo Boticário.
+* E mamãe de um lindo principezinho.
 
 <p>Gosto de desenvolver layouts para a web e mobile, e tenho conhecimentos e interesse na área de UX Design.</p>
 
