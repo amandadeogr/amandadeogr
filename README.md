@@ -10,7 +10,7 @@
 
 <br>
 
-###Ferramentas e Linguagens utilizadas:
+### Ferramentas e Linguagens utilizadas:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,typescript,react,git,nodejs,md,linux,figma" />
