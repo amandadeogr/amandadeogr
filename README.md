@@ -11,10 +11,13 @@
 <br>
 
 ### Ferramentas e Linguagens utilizadas:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,typescript,react,git,nodejs,md,linux,figma" />
+  </a>
+</p>
 
-<br><br><br>
-
-
+<br><br>
 
 <p>Uma frase que guia os meus passos:</p>
 <p>"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!"<p>
