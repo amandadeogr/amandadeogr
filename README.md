@@ -11,7 +11,7 @@
 ### Ferramentas e Linguagens utilizadas:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,git,md,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,git,md,linux,figma,styledcomponents,bootstrap" />
 </a>
 
 <br><br>
